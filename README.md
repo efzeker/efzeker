@@ -3,10 +3,13 @@
 
 
 
-
+.
 
 
 Hola a todos! Mi nombre es Alejandro Felipe Guillermo, alias @efzeker, soy Ingeniero Civil, con desarrollo profesional enfocado en la Ingeniería en Control de Gestión. 
+
+.
+
 
 He trabajado controlando actividades de construcción, flotas de equipos, reportando KPIs operacionales, monitoreando la gestión de compromisos, el cumplimiento de los estándares de calidad, entre otras tareas propias del cargo. 
 
