@@ -26,7 +26,7 @@ Pretendo profundizar mi camino como programador y ser un aporte en la comunidad 
 .
 
 
-En la misma línea, Te agradezco por visitar mi perfil. ¡No dudes en contactarme si deseas saber más de mí o si tienes alguna propuesta interesante! ¡Estoy ansioso por formar parte de tu equipo y hacer grandes cosas juntos! 
+En la misma línea, ¡Te agradezco por visitar mi perfil! ¡No dudes en contactarme si deseas saber más de mí o si tienes alguna propuesta interesante! ¡Estoy ansioso por formar parte de tu equipo y hacer grandes cosas juntos! 
 
 
 .
