@@ -20,7 +20,7 @@ realizando análisis de ventas frecuentemente, entre otras tareas propias del ca
 
 Si bien es cierto, mi ejecución en softwares de diseño y análisis de estructuras tiene larga data, incluso mi tesis profesional fue ligado a tal campo de la ingeniería de Minas. 
 Desde hace ya un par de años, he expandido mi uso de software al área de la programación, conociendo y utilizando de por sí, softwares estadísticos, de automatización de procesos, de manejo de bases de datos. 
-Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones. Estoy realizando un Challenge de Microsoft y espero, crear una App en el corto plazo, y exhibirla por medio de este medio.
+Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones. Estoy realizando un Challenge de Microsoft y espero, crear una App en el corto plazo y compartirla por este medio.
 Pretendo profundizar mi camino como programador y ser un aporte en la comunidad de desarrolladores GitHub.
 
 .
