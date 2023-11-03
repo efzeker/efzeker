@@ -11,10 +11,10 @@ Hola a todos! Mi nombre es Alejandro Felipe Guillermo, alias @efzeker, soy Ingen
 .
 
 
-He trabajado controlando actividades de construcción, flotas de equipos, reportando KPIs operacionales, monitoreando la gestión de compromisos, el cumplimiento de los estándares de calidad, entre otras tareas propias del cargo. 
+He trabajado controlando actividades de construcción, flotas de equipos, reportando KPIs operacionales, monitoreando la gestión de compromisos, el cumplimiento de los estándares de calidad, entre otras actividades propias del cargo. 
 
 También, he ejercido controlando la cadena logística en la comercialización de productos de consumo masivo, desde el abastecimiento, transporte, tanto nacional como internacional, hasta el almacenamiento, despacho y comercialización de los mismos, 
-realizando análisis de ventas frecuentemente, entre otros desempeños propios del cargo.
+realizando análisis de ventas frecuentemente, entre otras tareas propias del cargo.
 
 .
 
