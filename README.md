@@ -23,6 +23,9 @@ Desde hace ya un par de años, he expandido mi uso de software al área de la pr
 Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones. Estoy realizando un Challenge de Microsoft y espero, crear una App en el corto plazo, y exhibirla por medio de este medio.
 Pretendo profundizar mi camino como programador y ser un aporte en la comunidad de desarrolladores GitHub.
 
+.
+
+
 En la misma línea, Te agradezco por visitar mi perfil. ¡No dudes en contactarme si deseas saber más de mí o si tienes alguna propuesta interesante! ¡Estoy ansioso por formar parte de tu equipo y hacer grandes cosas juntos! 
 
 
