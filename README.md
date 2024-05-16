@@ -20,7 +20,7 @@ realizando análisis de ventas frecuentemente, entre otras tareas propias del ca
 
 Si bien es cierto, mi ejecución en softwares de diseño y análisis de estructuras tiene larga data, incluso mi tesis profesional fue ligado a tal campo de la ingeniería de Minas. 
 Desde hace ya un par de años, he expandido mi uso de software al área de la programación, conociendo y utilizando de por sí, softwares estadísticos, de automatización de procesos, de manejo de bases de datos. 
-Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones.Copio un enlace en que podrán descargar las Apps que he desarrollado hasta ahora. Es una misma App realizada bajo dos metodologías ramificándose una de ellas, en dos variantes. [[ https://1drv.ms/f/s!Al6WBn-tIst8gbV5QUeoMGBtdOSGHQ?e=HInDGj ]]
+Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones.Copio un enlace en que podrán descargar las Apps que he desarrollado hasta ahora. Es una misma App realizada bajo dos metodologías ramificándose una de ellas, en dos variantes. [[![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4) https://1drv.ms/f/s!Al6WBn-tIst8gbV5QUeoMGBtdOSGHQ?e=HInDGj ]]
 Pretendo profundizar mi camino como programador y ser un aporte en la comunidad de desarrolladores GitHub.
 
 .
@@ -36,6 +36,7 @@ En la misma línea, ¡Te agradezco por visitar mi perfil! ¡No dudes en contacta
 .
 SOFTWARES
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
