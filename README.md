@@ -1,4 +1,4 @@
-# ¡Hola! Soy Efzeker 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# ¡Hola! Soy ![github](/images/icon.png) Efzeker
 ### Civil Engineer
 
 
@@ -31,8 +31,7 @@ En la misma línea, ¡Te agradezco por visitar mi perfil! ¡No dudes en contacta
 
 .
 
-A modo de presentación, Les dejo un video demo que hice sobre la ISO 14001:2015.
-Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo de software
+
 
 .
 SOFTWARES
@@ -92,8 +91,7 @@ Actualmente estoy trabajando con:
 
 .
 
-Además del video previamente expuesto en la imagen en miniatura, 
-les dejo mi website donde escribo sobre temas de interés, 
-y testeo ciertos proyectos html que desarrolle bajo la modalidad de programación Shell.
+YouTube	![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) A modo de presentación, Les dejo un video demo que hice sobre la ISO 14001:2015.
+Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo de software
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) https://kjream.wordpress.com/
