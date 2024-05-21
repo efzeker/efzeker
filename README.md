@@ -20,7 +20,7 @@ realizando análisis de ventas frecuentemente, entre otras tareas propias del ca
 
 Si bien es cierto, mi ejecución en softwares de diseño y análisis de estructuras tiene larga data, incluso mi tesis profesional fue ligado a tal campo de la ingeniería de Minas. 
 Desde hace ya un par de años, he expandido mi uso de software al área de la programación, conociendo y utilizando de por sí, softwares estadísticos, de automatización de procesos, de manejo de bases de datos. 
-Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones.Copio un enlace en que podrán descargar las Apps que he desarrollado hasta ahora. Es una misma App realizada bajo dos metodologías ramificándose una de ellas, en dos variantes. [[![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4) https://1drv.ms/f/s!Al6WBn-tIst8gbV5QUeoMGBtdOSGHQ?e=HInDGj ]]
+Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones.Copio un enlace en que podrán descargar las Apps que he desarrollado hasta ahora. Es una misma App realizada bajo dos metodologías ramificándose una de ellas, en dos variantes. [[ https://1drv.ms/f/s!Al6WBn-tIst8gbV5QUeoMGBtdOSGHQ?e=HInDGj ]]
 Pretendo profundizar mi camino como programador y ser un aporte en la comunidad de desarrolladores GitHub.
 
 .
@@ -63,17 +63,16 @@ LANGUAGES
   
   
 
-Actualmente estoy trabajando con:
+Actualmente estoy /*o quiero*/ trabajando/*ar*/ con:
 .
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
