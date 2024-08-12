@@ -6,7 +6,7 @@
 .
 
 
-Hola a todos! Mi nombre es Alejandro Felipe Guillermo, alias @efzeker.
+Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
 
 Actualmente estoy desarrollando un solo gran proyecto de programación. Tengo listo el FrontEnd, tengo que adaptarlo a un modelo de negocio que tengo previsto, en el entre tanto, hacerle publicidad por GoogleAds dirigido a segmentos de desarrolladores y gamers.
 
