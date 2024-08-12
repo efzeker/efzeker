@@ -20,14 +20,16 @@ Si me preguntaras un momento específico del proyecto, te respondería que el pr
 
 .
 
-06/08: Por problemas técnicoss solo puedo compilar en el formato de Google Play Store, no así APK para instalar en el dispositivo. Por lo que no es la versión más actualizada ni con el mejor FrontEnd, pero es funcional y se entiende lo que será el inminente lanzamiento,`
+06/08: Desde hoy, por problemas técnicoss en vías de solución, solo puedo compilar en el formato de Google Play Store, no así APK para instalar en el dispositivo. Por lo que no es la versión más actualizada ni con el mejor FrontEnd, pero es funcional y se entiende lo que será el inminente lanzamiento,`
 
 .
 
 Un Saludo,
 .
 
-EFZOOO"
+
+
+AlejandroFelipe.-
 
 SOFTWARES
 .
