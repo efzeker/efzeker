@@ -8,7 +8,10 @@
 
 Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
 
-Actualmente estoy desarrollando un solo gran proyecto de programación. Tengo listo el FrontEnd, tengo que adaptarlo a un modelo de negocio que tengo previsto, en el entre tanto, hacerle publicidad por GoogleAds dirigido a segmentos de desarrolladores y gamers.
+.
+
+
+Actualmente estoy desarrollando un solo gran proyecto de programación. Tengo listo el FrontEnd, me falta adaptarlo a un modelo de negocio que tengo previsto, en el entre tanto, hacerle publicidad por GoogleAds dirigido a segmentos de desarrolladores y gamers.
 
 .
 
@@ -16,11 +19,11 @@ Es un proyecto sencillo pero funcional, es práctico para que exista una buena e
 
 .
 
-Si me preguntaras un momento específico del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario, A su vez estoy en la encrucijada entre continuar la entretención o pasar al campo de la arquitectura.
+Si me preguntaras en qué momento específico estoy del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario. A su vez estoy en la encrucijada entre continuar la entretención o pasar al modelo de negocio.
 
 .
 
-06/08: Desde hoy, por problemas técnicoss en vías de solución, solo puedo compilar en el formato de Google Play Store, no así APK para instalar en el dispositivo. Por lo que no es la versión más actualizada ni con el mejor FrontEnd, pero es funcional y se entiende lo que será el inminente lanzamiento,`
+03/08: Desde hoy, por problemas técnicoss en vías de solución, solo puedo compilar en el formato de Google Play Store, no así APK para instalar en el dispositivo. Por lo que no es la versión más actualizada ni con el mejor FrontEnd, pero es funcional y se entiende lo que será el inminente lanzamiento,`
 
 .
 
@@ -29,6 +32,9 @@ Un Saludo,
 
 
 AlejandroFelipe.-
+
+.
+
 
 SOFTWARES
 .
@@ -93,4 +99,4 @@ Actualmente estoy /*o quiero*/ trabajando/*ar*/ con:
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) A modo de presentación, Les dejo un video demo que hice sobre la ISO 14001:2015.
 Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo de software
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) https://kjream.wordpress.com/
+Última Actualización: 03 de Agosto del 2024
