@@ -6,34 +6,29 @@
 .
 
 
-Hola a todos! Mi nombre es Alejandro Felipe Guillermo, alias @efzeker, soy Ingeniero Civil con desarrollo profesional enfocado en la Ingeniería en Control de Gestión. 
+Hola a todos! Mi nombre es Alejandro Felipe Guillermo, alias @efzeker.
+
+Actualmente estoy desarrollando un solo gran proyecto de programación. Tengo listo el FrontEnd, tengo que adaptarlo a un modelo de negocio que tengo previsto, en el entre tanto, hacerle publicidad por GoogleAds dirigido a segmentos de desarrolladores y gamers.
 
 .
 
-
-He trabajado controlando actividades de construcción, flotas de equipos, reportando KPIs operacionales, monitoreando la gestión de compromisos, el cumplimiento de los estándares de calidad, entre otras actividades propias del cargo. 
-
-También, he ejercido controlando la cadena logística en la comercialización de productos de consumo masivo, desde el abastecimiento, transporte, tanto nacional como internacional, hasta el almacenamiento, despacho y comercialización de los mismos, 
-realizando análisis de ventas frecuentemente, entre otras tareas propias del cargo.
+Es un proyecto sencillo pero funcional, es práctico para que exista una buena experiencia del usuario, para que pueda usarlo tanto en momentos de productividad como de ocio. Próximamente tendrá entretención con juegos funcionales y característicos.
 
 .
 
-Si bien es cierto, mi ejecución en softwares de diseño y análisis de estructuras tiene larga data, incluso mi tesis profesional fue ligado a tal campo de la ingeniería Civil. 
-Desde hace ya un par de años, he expandido mi uso de software al área de la programación, conociendo y utilizando de por sí, softwares estadísticos, de automatización de procesos, de manejo de bases de datos. 
-Ahora, actualmente, estoy adentrándome en el área del desarrollo de aplicaciones.Copio un enlace en que podrán descargar las Apps que he desarrollado hasta ahora. Es una misma App realizada bajo dos metodologías ramificándose una de ellas, en dos variantes. [[ https://1drv.ms/f/s!Al6WBn-tIst8gbV5QUeoMGBtdOSGHQ?e=HInDGj ]]
-Pretendo profundizar mi camino como programador y ser un aporte en la comunidad de desarrolladores GitHub.
+Si me preguntaras un momento específico del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario, A su vez estoy en la encrucijada entre continuar la entretención o pasar al campo de la arquitectura.
 
 .
 
+12/08: Por problemas técnicos que se arrastran de hace días, solo puedo compilar en el formato de Google Play Store, no así APK para instalar en el dispositivo. Por lo que no es la versión más actualizada ni con el mejor FrontEnd, pero es funcional y se entiende lo que será el inminente lanzamiento,`
 
-En la misma línea, ¡Te agradezco por visitar mi perfil! ¡No dudes en contactarme si deseas saber más de mí o si tienes alguna propuesta interesante! ¡Estoy ansioso por formar parte de tu equipo y hacer grandes cosas juntos! 
+.
 
 
 .
 
 
 
-.
 SOFTWARES
 .
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
