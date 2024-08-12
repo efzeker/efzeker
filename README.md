@@ -25,7 +25,6 @@ Si me preguntaras un momento específico del proyecto, te respondería que el pr
 .
 
 Un Saludo,
-.
 
 
 
