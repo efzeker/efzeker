@@ -19,7 +19,7 @@ Es un proyecto sencillo pero funcional, es práctico para que exista una buena e
 
 .
 
-Si me preguntaras en qué momento específico estoy del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario. A su vez estoy en la encrucijada entre continuar la entretención o pasar al modelo de negocio.
+Si me preguntaras en qué momento específico estoy del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario. A su vez estoy en la encrucijada entre continuar la entretención y mejorar la Experiencia del Usuario o pasar al modelo de negocio.
 
 .
 
