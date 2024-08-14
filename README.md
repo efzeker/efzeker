@@ -15,11 +15,10 @@ Actualmente estoy desarrollando un solo gran proyecto de programación. Tengo li
 
 .
 
-Es un proyecto sencillo pero funcional, es práctico para que exista una buena experiencia del usuario, para que pueda usarlo tanto en momentos de productividad como de ocio. Próximamente tendrá entretención con juegos funcionales y característicos.
-
+Es un proyecto sencillo pero funcional, es práctico para que exista una buena experiencia del usuario, para que pueda usarlo tanto en momentos de productividad como de ocio. Próximamente tendrá entretención con juegos y otras funcionalidades.
 .
 
-Si me preguntaras en qué momento específico estoy del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario. A su vez estoy en la encrucijada entre continuar la entretención y mejorar la Experiencia del Usuario o pasar al modelo de negocio.
+Si me preguntaras en qué momento específico estoy del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario. A su vez estoy en la encrucijada entre continuar la entretención, mejorar la Experiencia del Usuario o pasar al modelo de negocio.
 
 .
 
