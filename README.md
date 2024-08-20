@@ -26,6 +26,11 @@ Si me preguntaras en qué momento específico estoy del proyecto, te responderí
 
 .
 
+14/08: Se sube la App a Google Play Store. Las actualizaciones se generarán una vez aprobada la aplicación por Google. || Queda pendiente subir la aplicación a App Store para iOS.
+
+.
+
+
 Un Saludo,
 
 
@@ -92,4 +97,4 @@ Me gustaría trabajar con:
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) A modo de presentación, Les dejo un video demo que hice sobre la ISO 14001:2015.
 Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo de software
 
-Última Actualización: 03 de Agosto del 2024
+Última Actualización: 14 de Agosto del 2024
