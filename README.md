@@ -83,18 +83,7 @@ Me gustaría trabajar con:
 
 
 .
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://youtu.be/ay1lwfjIGgM?si=H2Rd1cnMQHrbhtyr">
-<img src="https://ibb.co/DQ81Lpm#google_vignette">
 
-.
-
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) A modo de presentación, Les dejo un video demo que hice sobre la ISO 14001:2015.
-Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo de software
-</tr>
-</td>
 
 
 .
