@@ -84,14 +84,6 @@ Me gustaría trabajar con:
 
 .
 
-
-
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://youtu.be/ay1lwfjIGgM?si=H2Rd1cnMQHrbhtyr">
-<img src="https://ibb.co/DQ81Lpm#google_vignette">
-
 .
 
 
