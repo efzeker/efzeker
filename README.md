@@ -31,6 +31,21 @@ Si me preguntaras en qué momento específico estoy del proyecto, te responderí
 .
 
 
+Te dejo esta url de Youtube donde puedes ver la presentación de mi proyecto!.
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="(https://www.youtube.com/watch?v=rhlFx0Cr6Mk)">
+<img src="https://ibb.co/DQ81Lpm#google_vignette"/>
+</a>
+</td>
+</tr>
+</table>
+.
+
+
+
 Un Saludo,
 
 
