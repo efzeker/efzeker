@@ -37,8 +37,8 @@ Si me preguntaras en qué momento específico estoy del proyecto, te responderí
 <tr>
 <td>
 <a href="(https://www.youtube.com/watch?v=rhlFx0Cr6Mk)">
-<img src="https://ibb.co/DQ81Lpm#google_vignette"/>
-  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) Te dejo esta url de Youtube donde puedes ver la presentación de mi proyecto!.
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  Te dejo esta url de Youtube donde puedes ver la presentación de mi proyecto!.
 </a>
 </td>
 </tr>
