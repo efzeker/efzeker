@@ -22,11 +22,7 @@ Si me preguntaras en qué momento específico estoy del proyecto, te responderí
 
 .
 
-03/08: Desde hoy, por problemas técnicoss en vías de solución, solo puedo compilar en el formato de Google Play Store, no así APK para instalar en el dispositivo. Por lo que no es la versión más actualizada ni con el mejor FrontEnd, pero es funcional y se entiende lo que será el inminente lanzamiento,`
-
-.
-
-14/08: Se sube la App a Google Play Store. Las actualizaciones se generarán una vez aprobada la aplicación por Google. || Queda pendiente subir la aplicación a App Store para iOS.
+La aplicación debiese estar de acceso libre antes de que termine Septiembre del 2024.
 
 .
 
