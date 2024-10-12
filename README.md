@@ -70,20 +70,12 @@ LANGUAGES
 > [!TIP]
 > El servidor en el que comparto los avances de mi proyecto web funcionan solo con mi computador encendido con conexión al mismo, por lo que a veces puede no estar disponible el URL. Aunque se hará el intento de estar siempre disponible.
 
-Un Saludo,
-
-<p></p>
-
-AlejandroFelipe.-
-
-
 
 
 <p></p>
 <p></p>
 
 
-¡Un gran saludo de mi parte!
 
 
 <p></p>
@@ -106,6 +98,11 @@ Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo 
 > Si te gusta mi proyecto, quieres que lo libere en Google Play Store y App Store y que vaya agregando más y mejores contenidos, puedes dejarme una donación presionando el siguiente link.
 > https://www.flow.cl/btn.php?token=chk33hl
 
+<p></p>
+<p></p>
 
+¡Un gran saludo de mi parte!
 
-Última Actualización: 14 de Agosto del 2024
+<p></p>
+
+AlejandroFelipe.-
