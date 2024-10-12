@@ -8,19 +8,7 @@
 
 Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
 
-.
-
-
-Actualmente estoy desarrollando un solo gran proyecto de programación. Tengo listo el FrontEnd, me falta adaptarlo a un modelo de negocio que tengo previsto, en el entre tanto, hacerle publicidad por GoogleAds dirigido a segmentos de desarrolladores y gamers.
-
-.
-
-Es un proyecto sencillo pero funcional, es práctico para que exista una buena experiencia del usuario, para que pueda usarlo tanto en momentos de productividad como de ocio. Próximamente tendrá entretención con juegos y otras funcionalidades.
-.
-
-Si me preguntaras en qué momento específico estoy del proyecto, te respondería que el proyecto ya es funcional y agradable al usuario. A su vez estoy en la encrucijada entre continuar la entretención, mejorar la Experiencia del Usuario o pasar al modelo de negocio.
-
-.
+<p></p>
 
 > [!NOTE]
 > Aun mi aplicación para Android no está disponible libremente en Google Play Store, pero cada vez le habilito más funcionalidades para que cuando quede liberada, esté totalmente operativa. Les dejo unas fotos de mi App
