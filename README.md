@@ -36,10 +36,15 @@ LANGUAGES
 > Aun mi aplicación para Android no está disponible libremente en Google Play Store, pero cada vez le habilito más funcionalidades para que cuando quede liberada, esté totalmente operativa. Les dejo unas fotos de mi App
 
 <p></p>
+
 <table style="width:100%">
 <tr>
 <td>
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FRadar.png?alt=media&token=0349ed0d-ba11-4e68-82c5-9e5cdf09a11d" />
+<img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FDescriptor%20de%20Personajes.png?alt=media&token=dd0d44ab-fbbf-4dea-901d-9286386753be" />
+</td>
+</tr>
+</table>
 
 
 
