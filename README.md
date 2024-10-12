@@ -53,7 +53,7 @@ La aplicación debiese estar de acceso libre antes de que termine Septiembre del
 </tr>
 </table>
 
-> [!TIP]
+> [!CAUTION]
 >Tiene autenticación para que puedan habilitarse algunas funcionalidades, pero no se autentifica el e-mail, solo que tenga su estructura.
 
 > [!TIP]
