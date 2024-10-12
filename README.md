@@ -34,7 +34,7 @@ LANGUAGES
 <p></p>
 
 > [!TIP]
-> Aun mi aplicación para Android no está disponible libremente en Google Play Store, pero cada vez le habilito más funcionalidades para que cuando quede liberada, esté totalmente operativa. Les dejo unas fotos de mi App para dispositivos móviles ABAJO!
+> Aun mi aplicación para Android no está disponible libremente en Google Play Store, pero cada vez le habilito más funcionalidades para que cuando quede liberada, esté totalmente operativa. <p>Les dejo unas fotos de mi App para dispositivos móviles ABAJO!</p>
 
 <p></p>
 
