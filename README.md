@@ -50,11 +50,11 @@ Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
 
 Un Saludo,
 
-
+<p></p>
 
 AlejandroFelipe.-
 
-.
+
 
 
 <p></p>
@@ -85,8 +85,8 @@ LANGUAGES
 ¡Un gran saludo de mi parte!
 
 
+<p></p>
 
-.
 <table style="width:100%">
 <tr>
 <td>
@@ -99,7 +99,7 @@ Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo 
 </td>
 
 
-.
+<p></p>
 
 > [!TIP]
 > Si te gusta mi proyecto, quieres que lo libere en Google Play Store y App Store y que vaya agregando más y mejores contenidos, puedes dejarme una donación presionando el siguiente link.
