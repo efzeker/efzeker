@@ -1,4 +1,4 @@
-# ¡Hola! Soy Efzeker
+# ¡Hola! Soy Efzedev
 ### Civil Engineer
 
 
@@ -6,7 +6,7 @@
 
 
 > [!TIP]
-> Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
+> Hola a todos! Mi nombre es Alejandro Felipe, alias @efzedev.
 > <p>Les comparto dos proyectos que tengo, uno para aplicaciones móviles, y otro web!</p>
 <p></p>
 <p></p>
