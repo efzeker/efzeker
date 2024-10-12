@@ -3,10 +3,10 @@
 
 
 
-.
 
 
-Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
+> [!TIP]
+> Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
 <p></p>
 <p></p>
 TOOLS
