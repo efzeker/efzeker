@@ -22,7 +22,8 @@ Si me preguntaras en qué momento específico estoy del proyecto, te responderí
 
 .
 
-La aplicación debiese estar de acceso libre antes de que termine Septiembre del 2024.
+> [!NOTE]
+> Aun mi aplicación para Android no está disponible libremente en Google Play Store, pero cada vez le habilito más funcionalidades para que cuando quede liberada, esté totalmente operativa. Les dejo unas fotos de mi App
 
 .
 
