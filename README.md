@@ -42,6 +42,7 @@ LANGUAGES
 <td>
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FRadar.png?alt=media&token=0349ed0d-ba11-4e68-82c5-9e5cdf09a11d" />
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FDescriptor%20de%20Personajes.png?alt=media&token=dd0d44ab-fbbf-4dea-901d-9286386753be" />
+<img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FLocal%20News.png?alt=media&token=c8fab532-ec74-4480-b6eb-9914c2ce4273" />
 </td>
 </tr>
 </table>
