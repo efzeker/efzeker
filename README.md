@@ -35,7 +35,11 @@ LANGUAGES
 > [!TIP]
 > Aun mi aplicación para Android no está disponible libremente en Google Play Store, pero cada vez le habilito más funcionalidades para que cuando quede liberada, esté totalmente operativa. Les dejo unas fotos de mi App
 
-.
+<p></p>
+<table style="width:100%">
+<tr>
+<td>
+<img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FRadar.png?alt=media&token=0349ed0d-ba11-4e68-82c5-9e5cdf09a11d" />
 
 
 
@@ -56,7 +60,7 @@ LANGUAGES
 <tr>
 <td>
 <a href="https://6dcf-2800-150-14b-1dae-2c94-8d12-71e9-f396.ngrok-free.app/">
-  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/626/900/original/ngrok-blue-lrg.png?1635367310"  width=10% height=5%/>
+  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/626/900/original/ngrok-blue-lrg.png?1635367310"  width=10% height=5% />
   Y esta url donde comparto los avances de mi proyecto <p>Aun no despliego mi página en un dominio, así que lo hago con un servidor externo.</p> <p>Para ingresar al sitio debes presionar el botón Visit Site</p>
   <p></p>
     </a>
