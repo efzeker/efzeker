@@ -7,7 +7,7 @@
 
 > [!TIP]
 > Hola a todos! Mi nombre es Alejandro Felipe, alias @efzeker.
-> Les comparto dos proyectos que tengo, uno para aplicaciones móviles, y otro web!
+> <p>Les comparto dos proyectos que tengo, uno para aplicaciones móviles, y otro web!</p>
 <p></p>
 <p></p>
 TOOLS
