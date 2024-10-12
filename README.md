@@ -53,8 +53,8 @@ La aplicación debiese estar de acceso libre antes de que termine Septiembre del
 </tr>
 </table>
 
-> [!CAUTION]
->Tiene autenticación para que puedan habilitarse algunas funcionalidades, pero no se autentifica el e-mail, solo que tenga su estructura.
+> [!IMPORTANT]
+>Tiene autenticación para que puedan habilitarse algunas funcionalidades, pero no se autentifica el e-mail, solo que tenga una estructura válida.
 
 > [!TIP]
 > El servidor en el que comparto los avances de mi proyecto web funcionan solo con mi computador encendido con conexión al mismo, por lo que a veces puede no estar disponible el URL. Aunque se hará el intento de estar siempre disponible.
