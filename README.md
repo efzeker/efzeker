@@ -125,15 +125,10 @@ Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo 
 
 
 .
-<table style="width:100%">
-<tr>
-<td>
+
 > [!TIP]
 > Si te gusta mi proyecto, quieres que lo libere en Google Play Store y App Store y que vaya agregando más y mejores contenidos, puedes dejarme una donación presionando el siguiente link.
-</tr>
-</td>
-
-https://www.flow.cl/btn.php?token=chk33hl
+> https://www.flow.cl/btn.php?token=chk33hl
 
 
 
