@@ -54,6 +54,8 @@ La aplicación debiese estar de acceso libre antes de que termine Septiembre del
 </tr>
 </table>
 
+> [!TIP]
+> El servidor en el que comparto los avances de mi proyecto web funcionan solo con mi computador encendido con conexión al mismo, por lo que a veces puede no estar disponible el URL. Aunque se hará el intento de estar siempre disponible.
 
 Un Saludo,
 
