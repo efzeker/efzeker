@@ -32,7 +32,7 @@ LANGUAGES
 <p></p>
 <p></p>
 
-> [!NOTE]
+> [!TIP]
 > Aun mi aplicación para Android no está disponible libremente en Google Play Store, pero cada vez le habilito más funcionalidades para que cuando quede liberada, esté totalmente operativa. Les dejo unas fotos de mi App
 
 .
@@ -94,7 +94,7 @@ Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo 
 
 <p></p>
 
-> [!TIP]
+> [!NOTE]
 > Si te gusta mi proyecto, quieres que lo libere en Google Play Store y App Store y que vaya agregando más y mejores contenidos, puedes dejarme una donación presionando el siguiente link.
 > https://www.flow.cl/btn.php?token=chk33hl
 
