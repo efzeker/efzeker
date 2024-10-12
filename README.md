@@ -36,8 +36,9 @@ La aplicación debiese estar de acceso libre antes de que termine Septiembre del
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   Te dejo esta url de Youtube donde puedes ver la presentación de mi proyecto!.
 </a>
+  <p></p>
   <a href="https://6dcf-2800-150-14b-1dae-2c94-8d12-71e9-f396.ngrok-free.app/">
-  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/626/900/original/ngrok-blue-lrg.png?1635367310"  width=20% height=20%/>
+  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/626/900/original/ngrok-blue-lrg.png?1635367310"  width=5% height=5%/>
   Y esta url donde comparto mi proyecto con Ngrok. Aun no despliego mi página en un dominio, así que comparto solo el avance de mi desarrollo.
   Tiene autenticación para que puedan habilitarse algunas funcionalidades, pero no se autentifica el e-mail, solo que tenga su estructura.
     </a>
