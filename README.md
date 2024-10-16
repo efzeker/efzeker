@@ -87,6 +87,9 @@ LANGUAGES
 <p></p>
 <p></p>
 
+> [!NOTE]
+> Si te gusta mi proyecto, quieres que lo libere en Google Play Store y App Store y que vaya agregando más y mejores contenidos, puedes dejarme una donación presionando el siguiente link.
+> https://www.flow.cl/btn.php?token=chk33hl
 
 
 
@@ -106,9 +109,6 @@ LANGUAGES
 
 <p></p>
 
-> [!NOTE]
-> Si te gusta mi proyecto, quieres que lo libere en Google Play Store y App Store y que vaya agregando más y mejores contenidos, puedes dejarme una donación presionando el siguiente link.
-> https://www.flow.cl/btn.php?token=chk33hl
 
 <p></p>
 <p></p>
