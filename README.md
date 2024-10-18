@@ -90,7 +90,7 @@ LANGUAGES
 
 > [!NOTE]
 > Si te gusta mi proyecto, quieres que lo libere en Google Play Store, App Store y que vaya agregando más y mejores contenidos, puedes apoyar al proyecto presionando el siguiente link.
-> https://www.flow.cl/btn.php?token=chk33hl
+> https://www.patreon.com/efzedev/
 
 
 
