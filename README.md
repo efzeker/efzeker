@@ -65,17 +65,7 @@ LANGUAGES
   </tr>
 </table>
 
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://77fd-2800-150-14b-1dae-40c-a6ea-2842-1e7f.ngrok-free.app/">
-  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/626/900/original/ngrok-blue-lrg.png?1635367310"  width=10% height=5% />
-  Y esta url donde comparto los avances de mi proyecto Web <p>Aun no despliego mi página en un dominio, así que lo hago con un servidor externo.</p> <p>Para ingresar al sitio debes presionar el botón Visit Site</p>
-  <p></p>
-    </a>
-</td>
-</tr>
-</table>
+
 
 > [!IMPORTANT]
 >Tiene autenticación para que puedan habilitarse algunas funcionalidades, pero no se autentifica el e-mail, solo que tenga una estructura válida.
