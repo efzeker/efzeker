@@ -67,22 +67,6 @@ LANGUAGES
 
 
 
-> [!IMPORTANT]
->Tiene autenticación para que puedan habilitarse algunas funcionalidades, pero no se autentifica el e-mail, solo que tenga una estructura válida.
-
-> [!TIP]
-> El servidor en el que comparto los avances de mi proyecto web funcionan solo con mi computador encendido con conexión al mismo, por lo que a veces puede no estar disponible el URL. Aunque se hará el intento de estar siempre disponible.
-
-
-
-<p></p>
-<p></p>
-
-> [!NOTE]
-> Si te gusta mi proyecto, quieres que lo libere en Google Play Store, App Store y que vaya agregando más y mejores contenidos, puedes apoyar al proyecto presionando alguno de los siguientes link.
-> https://www.patreon.com/efzedev/
-> https://www.patreon.com/efzedev/about
-
 
 
 
