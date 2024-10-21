@@ -33,8 +33,6 @@ LANGUAGES
 <p></p>
 <p></p>
 
-> [!TIP]
-
 
 
 <table style="width:100%">
