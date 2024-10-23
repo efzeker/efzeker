@@ -47,8 +47,17 @@ LANGUAGES
 </table>
 
 
-<p>Les dejo mi patreon en que pretendo hacer videos y podcast para explorar mi lado influencer jeje</p>
-https://patreon.com/efzedev/
+<table style="width:100%">
+  <tr>
+    <td>
+      <a href="https://patreon.com/efzedev/">
+        <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Fpatreon.png?alt=media&token=ed8eca37-2b5f-464c-b348-869fe103a85f"/>
+          Les dejo mi patreon en que pretendo hacer videos y podcast para explorar mi lado influencer jeje
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
