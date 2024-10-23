@@ -48,7 +48,7 @@ LANGUAGES
 
 
 <p>Les dejo mi patreon en que pretendo hacer videos y podcast para explorar mi lado influencer jeje</p>
-<p>https://patreon.com/efzedev/</p>
+https://patreon.com/efzedev/
 
 
 
