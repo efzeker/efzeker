@@ -8,7 +8,7 @@
 > [!TIP]
 > Hola a todos! Mi nombre es Alejandro Felipe.
 > <p>Les comparto dos proyectos que tengo, uno para aplicaciones móviles, y otro web!,</p>
-> <p>Así como Dashboard en Python y Excel hasta ahora, pronto incluiré otros lenguajes y frameworks de desarrollo.</p>
+> <p>Así como también, Dashboard y análisis estadísticos, en Python y Excel hasta ahora. Pronto incluiré otros lenguajes y frameworks de desarrollo.</p>
 <p></p>
 TOOLS
 
