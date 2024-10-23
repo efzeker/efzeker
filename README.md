@@ -7,8 +7,8 @@
 
 > [!TIP]
 > Hola a todos! Mi nombre es Alejandro Felipe.
-> <p>Les comparto dos proyectos que tengo, uno para aplicaciones móviles, y otro web!</p>
-<p></p>
+> <p>Les comparto dos proyectos que tengo, uno para aplicaciones móviles, y otro web!,</p>
+> <p>Así como Dashboard en Python y Excel hasta ahora, pronto incluiré otros lenguajes y frameworks de desarrollo.</p>
 <p></p>
 TOOLS
 
@@ -47,6 +47,8 @@ LANGUAGES
 </table>
 
 
+<p>Les dejo mi patreon en que pretendo hacer videos y podcast para explorar mi lado influencer jeje</p>
+<p>https://patreon.com/efzedev/</p>
 
 
 
