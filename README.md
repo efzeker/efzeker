@@ -46,8 +46,6 @@ LANGUAGES
   </tr>
 </table>
 
-
-![NOTE]
 > Revisar About me si quieren conocer mi proyecto con mayor detalle!
 
 
