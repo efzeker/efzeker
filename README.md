@@ -38,18 +38,6 @@ LANGUAGES
 <table style="width:100%">
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=csUSC6kvBMU">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-          Te dejo esta url de Youtube donde puedes ver la presentación del proyecto más grande que he desarrollado!.
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<table style="width:100%">
-  <tr>
-    <td>
       <a href="https://patreon.com/efzedev/">
         <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Fpatreon.png?alt=media&token=ed8eca37-2b5f-464c-b348-869fe103a85f" height="30"/>
           Les dejo mi patreon en que pretendo hacer videos y podcast para explorar mi lado influencer jeje
@@ -59,7 +47,8 @@ LANGUAGES
 </table>
 
 
-
+![NOTE]
+> Revisar About me si quieren conocer mi proyecto con mayor detalle!
 
 
 
