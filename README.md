@@ -46,7 +46,7 @@ LANGUAGES
   </tr>
 </table>
 
-> Revisar About me si quieren conocer mi proyecto con mayor detalle!
+> Revisar sección About si quieren conocer mi proyecto con mayor detalle!
 
 
 
