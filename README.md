@@ -46,7 +46,7 @@ LANGUAGES
   </tr>
 </table>
 
-> Patreon será una herramienta poderosa en el funcionamiento de mi Aplicación, para gestionar mi modelo de negocio.
+> Patreon será una herramienta poderosa en el funcionamiento de mi Aplicación y gestionar mi modelo de negocio, junto con Flow y Google Pay.
 
 
 
