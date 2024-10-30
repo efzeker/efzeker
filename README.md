@@ -40,13 +40,13 @@ LANGUAGES
     <td>
       <a href="https://patreon.com/efzedev/">
         <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Fpatreon.png?alt=media&token=ed8eca37-2b5f-464c-b348-869fe103a85f" height="25"/>
-          Les dejo mi patreon en que pretendo hacer videos y podcast para explorar mi lado influencer jeje
+          Les dejo mi patreon en que pueden revisar sección *About* si quieren conocer mi proyecto con mayor detalle!
       </a>
     </td>
   </tr>
 </table>
 
-> Revisar sección *About* si quieren conocer mi proyecto con mayor detalle!
+> Patreon será una herramienta poderosa en el funcionamiento de mi Aplicación, para gestionar mi modelo de negocio.
 
 
 
