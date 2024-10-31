@@ -40,7 +40,7 @@ LANGUAGES
     <td>
       <a href="https://patreon.com/efzedev/">
         <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Fpatreon.png?alt=media&token=ed8eca37-2b5f-464c-b348-869fe103a85f" height="25"/>
-          
+          MiPatreon
       </a>
     </td>
   </tr>
